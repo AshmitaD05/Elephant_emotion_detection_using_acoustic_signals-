@@ -109,8 +109,8 @@ weighted avg   0.73     0.70      0.70         10
 ---
 
 ### 🎯 Predictions
-The predicted class for the input audio (Decision Tree) is: baroo
-The predicted class for the input audio (Random Forest) is: roar_rumble
+- The predicted class for the input audio (Decision Tree) is: baroo
+- The predicted class for the input audio (Random Forest) is: roar_rumble
 
 --- 
 ### Author
